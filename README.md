@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jbleyel&row=1&theme=flat" alt="Trophies" />
+</p>
+
 ## Hi there 👋
 
 <!--
